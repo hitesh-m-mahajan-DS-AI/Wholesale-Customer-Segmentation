@@ -1,0 +1,40 @@
+{
+  "source_url": "https://archive.ics.uci.edu/static/public/292/wholesale%2Bcustomers.zip",
+  "source_sha256": "c3d018c643565b85cee733c4a2ac76dd76e080e857cb23f0ccfcc2e15a6c17ef",
+  "rows": 440,
+  "missing_values": 0,
+  "exact_duplicate_rows": 0,
+  "feature_minima": {
+    "Fresh": 3,
+    "Milk": 55,
+    "Grocery": 3,
+    "Frozen": 25,
+    "Detergents_Paper": 3,
+    "Delicassen": 3
+  },
+  "feature_maxima": {
+    "Fresh": 112151,
+    "Milk": 73498,
+    "Grocery": 92780,
+    "Frozen": 60869,
+    "Detergents_Paper": 40827,
+    "Delicassen": 47943
+  },
+  "feature_medians": {
+    "Fresh": 8504.0,
+    "Milk": 3627.0,
+    "Grocery": 4755.5,
+    "Frozen": 1526.0,
+    "Detergents_Paper": 816.5,
+    "Delicassen": 965.5
+  },
+  "channel_counts": {
+    "1": 298,
+    "2": 142
+  },
+  "region_counts": {
+    "1": 77,
+    "2": 47,
+    "3": 316
+  }
+}

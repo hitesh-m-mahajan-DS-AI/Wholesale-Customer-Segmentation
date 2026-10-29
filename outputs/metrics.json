@@ -1,0 +1,26 @@
+{
+  "customers": 440,
+  "features": [
+    "Fresh",
+    "Milk",
+    "Grocery",
+    "Frozen",
+    "Detergents_Paper",
+    "Delicassen"
+  ],
+  "n_clusters": 3,
+  "random_state": 42,
+  "n_init": 20,
+  "silhouette_score": 0.2582784274194209,
+  "inertia_standardized_log_space": 1553.4127220608457,
+  "iterations": 7,
+  "cluster_sizes": {
+    "1": 145,
+    "2": 212,
+    "3": 83
+  },
+  "negative_silhouette_customers": 22,
+  "evaluation": "Internal full-cohort geometry in six standardized log-spending features, not predictive accuracy or held-out validation.",
+  "note": "Three clusters fixed in advance. Levels and patterns, not pure proportional mix; labels are arbitrary.",
+  "run_seconds": 0.914
+}

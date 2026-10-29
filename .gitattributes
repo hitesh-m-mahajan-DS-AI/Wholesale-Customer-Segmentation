@@ -1,0 +1,2 @@
+# Keep the audited source bytes unchanged across operating systems.
+data/wholesale_customers.csv -text
